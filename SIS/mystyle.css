@@ -1,0 +1,121 @@
+body{
+      background-image:url(https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=2000);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
+
+    h1{
+        margin-top:30px;
+        color:#46466e;
+    }
+
+    h3{
+        color:#46466e;
+    }
+
+    form
+       {
+        background-color:#ffff;
+        margin-left:37%;
+        margin-right:37%;
+        margin-top:50px;
+        border-radius:20px;
+        box-shadow: rgba(60, 66, 87, 0.12) 0px 7px 14px 0px, rgba(0, 0, 0, 0.12) 0px 3px 6px 0px;
+        padding-top: 20px;
+        padding-bottom:30px;    
+     }
+    
+    l1{
+        margin-right:60%;
+        font-size:large;
+    }
+
+    l2{
+        margin-right:60%;
+        font-size:large;
+    }
+
+    l3{
+        margin-right:56%;
+        font-size:large;
+    }
+
+    l4{
+        margin-right:68%;
+        font-size:large; 
+    }
+
+      .btn{
+      background-color: DodgerBlue; 
+      border: none; 
+      color: white; 
+      padding: 8px 12px; 
+      font-size: 16px;
+      margin-right:5px;
+      cursor: pointer;
+      border-radius:5px 
+      }
+
+      .btn:hover {
+      background-color: RoyalBlue;
+    }
+       
+    .box{  
+      width: 80%;
+      height: 1.5em;
+      background-color: #dbdbdb61;
+      border:1px #dbdbdb61 solid;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-radius: 5px;
+      padding: 5px; 
+      margin-top:5px;
+      margin-bottom:10px;   
+    }
+       #firstbox{
+            width:100%;
+            border:0;
+            outline:0; 
+            background-color:transparent;
+            font-size:initial;
+       }
+       #lastbox{
+            width:100%;
+            border:0;
+              outline:0;
+            background-color:transparent;
+            font-size:initial;
+       }
+       #rollbox{
+            width:100%;
+            border:0;
+              outline:0;
+            background-color:transparent;
+            font-size:initial;
+       }
+       #emailbox{
+              width:100%;
+              border:0;
+              outline:0; 
+              background-color:transparent;
+              font-size:initial;
+       } 
+      
+       #p{
+        padding: 15px 15px;
+        margin-left:20%;
+        margin-right:20%;
+        box-shadow: rgba(60, 66, 87, 0.12) 0px 7px 14px 0px, rgba(0, 0, 0, 0.12) 0px 3px 6px 0px;
+        background-color:white;
+        border-radius:15px;
+       }
+
+       table{
+        width:90%;
+       }
+     
+    
+    
+    
